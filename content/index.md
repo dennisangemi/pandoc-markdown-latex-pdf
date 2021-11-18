@@ -1,5 +1,5 @@
 ---
-title: "Pandoc-Markdown-LaTeX-PDF"
+title: "lallalala-Markdown-LaTeX-PDF"
 date: "2021-06-06"
 author: "Jaan Tollander de Balsch"
 bibliography: "bibliography.bib"
