@@ -1,18 +1,20 @@
 ---
 title: "Relazione di laboratorio: Energia cinetica di rotazione"
-date: "2021-06-06"
+date: "2021-11-18"
 author: "Dennis Angemi, Federica Ingrassia et al."
 bibliography: "bibliography.bib"
 link-citations: true
 urlcolor: "blue"
 ---
 
-# Image
+> Laboratorio di Fisica I - DFA, UniCT
+
+# Introduzione e scopo
 ![Description \label{fig:1}](images/800x400.png)
 
 Seen in figure \ref{fig:1}, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [@online]
 
-# Equation
+# Cenni teorici
 Cauchy's integral formula [@dixon1971brief]
 
 $$
@@ -31,7 +33,7 @@ As seen in equation $\eqref{eq:1}$, duis aute irure dolor in reprehenderit in vo
 
 As seen in equation $\eqref{eq:2}$ test
 
-# Source Code
+# Apparato sperimentale e descrizione esperienza
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ```python
@@ -41,7 +43,11 @@ def foo():
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# Table
+# Strumenti di misura
+
+lala
+
+# Dati sperimentali ed elaborazione
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -51,7 +57,15 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 Table: Table styles. \label{tab:1}
 
+Per fare la reference ad una table bisogna utilizzare questa struttura
+
+```
+Table: Qui scrivi la descrizione che ti serve. \label{tab:1}
+```
+
 Seen in table \ref{tab:1}, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
-# References
+# Conclusione
+
+# Note
