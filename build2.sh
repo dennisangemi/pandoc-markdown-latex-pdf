@@ -1,7 +1,8 @@
 #!/bin/sh
 
 ### requisiti ###
-# pandoc 
+# pandoc
+# pandoc-citeproc
 # xelatex 
 ### requisiti ###
 
