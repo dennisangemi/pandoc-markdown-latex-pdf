@@ -9,7 +9,7 @@ urlcolor: "blue"
 
 # Campo gravitazionale
 
-Definiamo il campo gravitazionale come la la la 
+Definiamo il campo gravitazionale come la la la a
 $$
 ⃗\nabla g(r) = \frac{1}{r^2}
 $$
