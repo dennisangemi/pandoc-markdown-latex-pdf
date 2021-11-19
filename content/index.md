@@ -91,6 +91,9 @@ Seen in table \ref{tab:1}, Lorem ipsum dolor sit amet, consectetur adipisicing e
 Beh, abbiamo scoperto nuova fisica!
 
 # Note
-Proviamo a fare un po' di open science?
+Proviamo a fare un po' di open science? Funziona anche la [versione web](https://dennisangemi.github.io/md-latex-test/report/report-2/) eccetto alcune cose tipo:
+- riferimento a immagini
+- riferimento a tabelle
+- riferimento a bibliografia
 
 # References
