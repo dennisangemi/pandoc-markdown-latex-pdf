@@ -1,4 +1,4 @@
-name: pdf converter
+name: Esegui script build2 (non funziona)
 
 on:
   push:

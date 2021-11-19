@@ -6,7 +6,8 @@
 # xelatex 
 ### requisiti ###
 
-#leggere questo https://www.cyberciti.biz/faq/bash-loop-over-file/
+# Per qdesso questo script non funziona
+# leggere questo https://www.cyberciti.biz/faq/bash-loop-over-file/
 
 CONTENTDIR="content"
 BUILDDIR="build"

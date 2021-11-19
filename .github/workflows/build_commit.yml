@@ -1,4 +1,4 @@
-name: Build test commit
+name: PDF converter
 
 on: push
 
