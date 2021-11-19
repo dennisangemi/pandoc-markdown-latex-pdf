@@ -91,6 +91,6 @@ Seen in table \ref{tab:1}, Lorem ipsum dolor sit amet, consectetur adipisicing e
 Beh, abbiamo scoperto nuova fisica!
 
 # Note
+Proviamo a fare un po' di open science?
 
 # References
-Proviamo a fare un po' di open science?
