@@ -1,4 +1,4 @@
-name: aggiorna dati comuni provincia di Caltanissetta
+name: pdf converter
 
 on:
   push:
