@@ -2,8 +2,8 @@ name: pdf converter
 
 on:
   push:
-    paths:
-    - 'content/**'
+    #paths:
+    #- 'content/**'
   workflow_dispatch:
 
 jobs:
@@ -16,10 +16,10 @@ jobs:
         fetch-depth: 0
     - name: installa pacchetti necessari
       run: |-
-        #sudo apt-get install -y pandoc
-        wget https://hackage.haskell.org/package/pandoc-1.17.0.3/pandoc-1.17.0.3.tar.gz
-        tar xvzf pandoc-1.17.0.3.tar.gz
-        cd pandoc-1.17.0.3
+        sudo apt-get install -y pandoc
+        #wget https://hackage.haskell.org/package/pandoc-1.17.0.3/pandoc-1.17.0.3.tar.gz
+        #tar xvzf pandoc-1.17.0.3.tar.gz
+        #cd pandoc-1.17.0.3
         sudo apt-get install -y pandoc-citeproc
         sudo apt-get install -y texlive-xetex
         sudo apt-get install -y texlive-luatex
