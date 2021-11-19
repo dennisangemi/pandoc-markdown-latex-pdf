@@ -14,7 +14,7 @@ $$
 ⃗\nabla g(r) = \frac{1}{r^2}
 $$
 
-Nota bene: ho accettato un suggerimento random. Lo sappiamo che quella non è la definizione di campo gravitazionale
+Nota bene: ho accettato un suggerimento random. Lo sappiamo che quella non è la definizione di campo gravitazionalea
 
 # Angolo solido
 
