@@ -11,7 +11,7 @@ urlcolor: "blue"
 
 # Introduzione e scopo
 
-![diagramma \label{fig:2}](https://user-images.githubusercontent.com/77018886/142263856-92837168-19c9-4888-b8c1-ac701cbc7844.png)
+![diagramma \label{fig:1}](https://user-images.githubusercontent.com/77018886/142263856-92837168-19c9-4888-b8c1-ac701cbc7844.png)
 
 Seen in figure \ref{fig:1}, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [@online]
 
@@ -81,7 +81,7 @@ I dati sperimentali li  puoi scaricare in csv da [qui](https://raw.githubusercon
 | 19    | 1.534 | 2.015 | 0.001      | s   |
 | 20    | 1.537 | 1.996 | 0.001      | s   |
 
-Table 1: Questa è la descrizione della tabella con i dati sperimentali \label{tab:1}
+Table: Questa è la descrizione della tabella con i dati sperimentali. \label{tab:1}
 
 
 Seen in table \ref{tab:1}, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -91,4 +91,6 @@ Seen in table \ref{tab:1}, Lorem ipsum dolor sit amet, consectetur adipisicing e
 Beh, abbiamo scoperto nuova fisica!
 
 # Note
+
+# References
 Proviamo a fare un po' di open science?
